@@ -30,7 +30,7 @@
       "foreground": "#d19a66"
     },
 		"variable": {
-			"foreground": "#ABB2BF"
+			"foreground": "#d19a66",
 		},
   },
   "tokenColors": [
