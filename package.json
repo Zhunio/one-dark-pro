@@ -1,0 +1,21 @@
+{
+    "name": "one-dark-pro",
+    "displayName": "One Dark Pro",
+    "description": "One Dark Pro",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark Pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Dark Pro-color-theme.json"
+            }
+        ]
+    }
+}
