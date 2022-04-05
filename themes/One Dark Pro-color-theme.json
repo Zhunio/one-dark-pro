@@ -1951,15 +1951,6 @@
       }
     },
     {
-      "name": "variable.other.object",
-      "scope": [
-        "variable.other.object"
-      ],
-      "settings": {
-        "foreground": "#56B6C2",
-      }
-    },
-    {
       "name": "variable.other.constant.property",
       "scope": [
         "variable.other.constant.property"
