@@ -3,6 +3,11 @@
     "displayName": "One Dark Pro",
     "description": "One Dark Pro",
     "version": "0.0.1",
+    "publisher": "Zhunio",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Zhunio/one-dark-pro"
+    },
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -17,5 +22,14 @@
                 "path": "./themes/One Dark Pro-color-theme.json"
             }
         ]
-    }
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "zhunio",
+        "zhunio theme",
+        "zhunio dark",
+        "dark zhunio",
+        "dark theme zhunio"
+    ]
 }
